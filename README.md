@@ -1,2 +1,2 @@
 # HelloWorld
-Reactで「Hello, World」 
+Reactで
